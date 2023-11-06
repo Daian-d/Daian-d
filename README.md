@@ -1,16 +1,39 @@
-### Hi there 👋
+### Olá meu é Daiana
+##### Eu sou estudante  de Engenharia de Software na faculdade Ampli Anhanguera, já trabalhei com auxiliar de produção, serviços gerais, Call center. hoje me encontro na fase de transição de carreira sem medo de ser feliz e me aperfeiçoando no que mais gosto, que é "tecnologia".
 
-<!--
-**Daian-d/Daian-d** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+. 🎓️ Estudante de Engenharia de Software
+
+. 🤖 Apaixona por jogos
+
+. ✍🏾️ Atualmente me especilizando em algumas linguagens de programação:
+
+   ![image](https://github.com/Daian-d/Daian-d/assets/124202818/0e0aa849-ff04-46ab-8f02-417d83e27cd6)
+   ![image](https://github.com/Daian-d/Daian-d/assets/124202818/0363abcf-7571-46b9-8ad5-6f0baa80ec1e)
+   ![image](https://github.com/Daian-d/Daian-d/assets/124202818/5b39b28a-a66a-4020-81dc-cb2977f13d3a)
+   
+          
+
+   
+
+
+    
+
+          
+          
+
+
+          
+          
+
+          
+
+    
+            
+ 
+    
+
+
+          
+
