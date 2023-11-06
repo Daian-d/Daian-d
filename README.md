@@ -1,5 +1,5 @@
 ### Olá meu é Daiana
-##### Eu sou estudante  de Engenharia de Software na faculdade Ampli Anhanguera, já trabalhei com auxiliar de produção, serviços gerais, Call center. hoje me encontro na fase de transição de carreira sem medo de ser feliz e me aperfeiçoando no que mais gosto, que é "tecnologia".
+Eu sou estudante  de Engenharia de Software na faculdade Ampli Anhanguera, já trabalhei com auxiliar de produção, serviços gerais, Call center. hoje me encontro na fase de transição de carreira sem medo de ser feliz e me aperfeiçoando no que mais gosto, que é "tecnologia".
 
 
 
