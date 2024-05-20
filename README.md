@@ -7,7 +7,7 @@ Eu sou estudante  de Engenharia de Software na faculdade Ampli Anhanguera, já t
 
 . 🤖 Apaixona por jogos
 
-. ✍🏾️ Atualmente me especilizando em algumas linguagens de programação:
+. ✍🏾️ Tenho conhecimento em algumas linguagens de programação tais como:
 
    ![image](https://github.com/Daian-d/Daian-d/assets/124202818/0e0aa849-ff04-46ab-8f02-417d83e27cd6)
    ![image](https://github.com/Daian-d/Daian-d/assets/124202818/0363abcf-7571-46b9-8ad5-6f0baa80ec1e)
